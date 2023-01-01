@@ -1,5 +1,5 @@
 # NAGYmart
-#Welcome to Nagymart!
+Welcome to Nagymart!
 
 Nagymart is a market service located on the campus of AAST Al Alamain University. Our goal is to provide tools and resources for engineering, AI, and medical students to help them succeed in their studies and pursue their interests.
 
