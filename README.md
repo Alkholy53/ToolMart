@@ -1,7 +1,7 @@
-# NAGYmart
-Welcome to Nagymart!
+# ToolMart
+Welcome to ToolMart!
 
-Nagymart is a market service located on the campus of AAST Al Alamain University. Our goal is to provide tools and resources for engineering, AI, and medical students to help them succeed in their studies and pursue their interests.
+ToolMart is a market service located on the campus of AAST Al Alamain University. Our goal is to provide tools and resources for engineering, AI, and medical students to help them succeed in their studies and pursue their interests.
 
 We offer a wide range of tools and equipment specifically designed for these fields, including everything from lab equipment to software and hardware. Our online store makes it easy for students to browse and purchase what they need from the comfort of their own homes, and we also have an on-campus location where students can shop in person.
 
